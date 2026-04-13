@@ -87,3 +87,4 @@ User Input (Voice/Text)
 ## Author
 
 Aditya Kumar Upadhyay
+Original Developer of SNAPPY AI Assistant
