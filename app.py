@@ -1,3 +1,7 @@
+# SNAPPY AI Assistant
+# Developed by Aditya Kumar Upadhyay
+# Original Project - Internship Submission
+
 import streamlit as st
 import os
 
