@@ -1,0 +1,83 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey", "good morning", "good evening"],
+      "responses": ["Hello!", "Hi there!", "Hey! Nice to meet you."]
+    },
+    {
+      "tag": "youtube",
+      "patterns": ["open youtube", "start youtube"],
+      "responses": ["Opening YouTube"]
+    },
+    {
+      "tag": "google",
+      "patterns": ["open google", "start google"],
+      "responses": ["Opening Google"]
+    },
+    {
+      "tag": "time",
+      "patterns": ["what time is it", "tell me time"],
+      "responses": ["Let me check the time"]
+    },
+    {
+      "tag": "exit",
+      "patterns": ["bye", "stop", "exit", "goodbye"],
+      "responses": ["Goodbye!", "See you later"]
+    },
+    {
+      "tag": "wikipedia",
+      "patterns": [
+        "search wikipedia",
+        "wikipedia",
+        "look up on wikipedia"
+      ],
+      "responses": ["Searching Wikipedia"]
+    },
+    {
+      "tag": "search",
+      "patterns": [
+        "search for",
+        "google search",
+        "find on google"
+      ],
+      "responses": ["Searching Google"]
+    },
+    {
+      "tag": "news",
+      "patterns": [
+        "news",
+        "latest news",
+        "news headlines"
+      ],
+      "responses": ["Here are the latest headlines"]
+    },
+    {
+      "tag": "create_file",
+      "patterns": [
+        "create file",
+        "make a file",
+        "new file"
+      ],
+      "responses": ["Creating file"]
+    },
+    {
+      "tag": "write_code",
+      "patterns": [
+        "write code",
+        "generate code",
+        "create python file"
+      ],
+      "responses": ["Generating code"]
+    },
+    {
+      "tag": "summarize",
+      "patterns": [
+        "summarize",
+        "give summary",
+        "short summary"
+      ],
+      "responses": ["Summarizing"]
+    }
+  ]
+}
